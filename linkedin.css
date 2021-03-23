@@ -1,0 +1,87 @@
+body{
+    background-color: teal;
+}
+hr{
+    width: 35%;
+    margin-left: 12px;
+    margin-right: 12px;
+} 
+.mform{
+    background-color: rgb(224, 220, 220);
+    width: 400px;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+.hform{
+    margin: 0 auto;
+    width:500px;
+    text-align: center;
+    color: white;
+    font-size:x-large;
+
+
+}
+form{
+    margin-left: 30px;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+input{
+    width: 330px;
+    height:30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+
+}
+label{
+    color: rgb(32, 32, 32);
+}
+.condition{
+    font-size: 14px;
+    padding-right: 20px;
+}
+span{
+    color: black;
+    font-weight: bold;
+}
+.join{
+    background-color: rgb(58, 58, 180);
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    padding:;
+
+}
+.fb_b{
+    text-align: center;
+    background-color: rgb(59, 89, 152);
+    width: 300px;
+    margin-left: 30px;
+    padding-left: 10ppx;
+    color: white;
+    padding-bottom: 5px;
+    padding-top: 4px;
+    padding-right: 30px;
+    border-radius: 5px;
+    
+    
+}
+.fb_i{
+    margin-left: -65px;
+}
+.last_p{
+    text-align: center;
+}
+.full_c{
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.or{
+    float: left;
+}
+p.or{
+    margin-top: -2px;
+
+}
